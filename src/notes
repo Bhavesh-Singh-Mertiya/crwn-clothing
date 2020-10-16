@@ -1,3 +1,5 @@
 App -> HomePage -> Directory(class) -> MenuItem 
 
 App -> ShopPage(class) -> CollectionPreview -> CollectionItem   
+
+App -> sign-in-and-sign-up -> SignIn(class) -> FormInput
